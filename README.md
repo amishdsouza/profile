@@ -33,7 +33,15 @@ Hi there 👋
 <img src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" alt="PHP" width="100px" height="70px">
  
  <img src="https://camo.githubusercontent.com/3a759e3619411b17fc119439adc96780278f6df968813a95a00f30f9fdb11f6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d706c61696e2d776f72646d61726b2e737667" alt="Node.js" width="100px" height="70">
+ 
+  <img src=" https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2Colors_Boxed_RGB.png?raw=true" alt="Node.js" width="100px" height="70">
+ 
+ 
  </p>
+ 
+ 
+ 
+
  
  
  **Database Mangement**
@@ -65,6 +73,7 @@ Hi there 👋
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="70" height="70" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="70" height="70" />
  </p>
+
 
 
 ![](https://github-readme-stats-ssggoku.vercel.app/api/?username=amishdsouza&custom_title=Amish's%20Github%20Stats&show_icons=true&layout=default)  
