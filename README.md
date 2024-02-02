@@ -34,37 +34,42 @@ Hi there 👋
  
 **Programming Languages**
 <p>
+
+<code> <img height="88" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> </code> 
 <code> <img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> </code>
 <code> <img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">  </code>
-<code> <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </code>
-<code> <img height="48" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"> </code>
-
+<code> <img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </code>
  </p>
- 
+
+ **.NET Technologies**
+<p>
+<code> <img height="88" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"> </code>
+<code> <img height="88" src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png"> </code>
+<code> <img height="88" src="https://miro.medium.com/v2/resize:fit:1400/1*w0u2TZpEp3WfKMrlL5jTSw.png"> </code>
+</p>
+
+
 **Mobile Application Development**
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="70" height="70">
-
-
- <code><img height="48" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
-
- 
+<p>
+ <code><img height="88" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
 </p>
 
  **Operating System**
- <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="70" height="70">
+ <p>
+  <code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+ <code><img height="88" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Hero-Bloom-Logo-800x533.jpg"></code>
+
+ 
  </p>
  
 **My Development tools**
-<p align="left">
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="70" height="70" />
+<p>
 
+<code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="88" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"></code>
+<code><img height="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybnKzjHPnpLFTRJLM4p10xpqYIc8di3d2Fvk-_WAVIQ&s"></code>
 
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
  </p>
 
