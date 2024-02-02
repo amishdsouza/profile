@@ -27,9 +27,9 @@ Hi there 👋
  
 
  **Database Management**
- <p align="left">
-<img src="https://camo.githubusercontent.com/d69527496a61f94e89fbb0f4022b15fa816f63d9b773c1ae2b6f83fb63e69d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" alt="MongoDB" width="100px" height="70px">
- <img src="https://camo.githubusercontent.com/ad7293939c16e73991b8d60763373b710bf9e96923595e8dd90fb7dee464e9ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="MySQL" width="100px" height="70px">
+ <p>
+<code><img height="48" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/databases/mongodb.svg" ></code>
+<code><img height="48" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/databases/mysql.svg" ></code>
  </p>
  
 **Programming Languages**
