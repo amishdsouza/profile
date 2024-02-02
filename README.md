@@ -11,7 +11,6 @@ Hi there 👋
 
 **Front-end Web Development**
 
-<p align="left">
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  
 
@@ -27,8 +26,6 @@ Hi there 👋
 
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" ></code>
 
- </p>
- 
  
  **Back-end Web Development**
  <p align="left">
