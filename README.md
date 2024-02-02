@@ -56,21 +56,25 @@ Hi there 👋
 
  **Operating System**
  <p>
+  <code><img height="88" src="https://th.bing.com/th/id/OIP.ehq1ipx8M4C_MsDXtu0VnQHaCi?rs=1&pid=ImgDetMain"></code>
+ <code><img height="88" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Hero-Bloom-Logo-800x533.jpg"></code>
+ </p>
+
+
+ **Psychology and Cognitive Research Tools**
+ <p>
   <code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
  <code><img height="88" src="https://news.microsoft.com/wp-content/uploads/prod/sites/612/2021/06/Hero-Bloom-Logo-800x533.jpg"></code>
+ </p>
 
  
- </p>
  
 **My Development tools**
 <p>
-
 <code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="88" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="88" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"></code>
 <code><img height="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybnKzjHPnpLFTRJLM4p10xpqYIc8di3d2Fvk-_WAVIQ&s"></code>
-
- 
  </p>
 
 
