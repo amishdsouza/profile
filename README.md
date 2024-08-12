@@ -64,7 +64,6 @@ Hi there 👋
 
  **Psychology and Cognitive Research Tools**
  <p>
-   <code><img height="88" src="https://th.bing.com/th/id/OIP.ehq1ipx8M4C_MsDXtu0VnQHaCi?rs=1&pid=ImgDetMain"></code>
    <code><img height="88" src="https://www.psychopy.org/_static/Psychopy%20Logotext.png"></code>
 
  </p>
